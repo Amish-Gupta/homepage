@@ -2,7 +2,7 @@
   position: relative;
   height: 500px;
   overflow: hidden;
-  background: url("/mobilecover.png") no-repeat center;
+  background: url("https://github.com/Amish-Gupta/homepage/blob/master/mobilecover.png") no-repeat center;
   background-size: cover;
 }
 
