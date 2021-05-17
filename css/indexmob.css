@@ -1,0 +1,38 @@
+.hero-image {
+  position: relative;
+  height: 500px;
+  overflow: hidden;
+  background: url("/images/mobilecover.png") no-repeat center;
+  background-size: cover;
+}
+
+.container-mob {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.container-mob h1 {
+  font-size: 40px;
+}
+
+.container-mob h1 span {
+  background: #4694c9;
+  border-radius: 10px;
+  padding-left: 5px;
+}
+
+.des {
+  background: #4694c9;
+  border-radius: 10px;
+}
+
+.button-mob {
+  color: whitesmoke;
+  background: #4694c9;
+  border-radius: 10px;
+}
